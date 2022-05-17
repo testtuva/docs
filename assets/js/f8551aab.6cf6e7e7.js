@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktuva_docs=self.webpackChunktuva_docs||[]).push([[1743],{7574:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var u=n(7294),a=n(8277);function c(){return u.createElement(a.Z,null,u.createElement("h1",null,"My React page"),u.createElement("p",null,"This is a React page"))}}}]);
